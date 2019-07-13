@@ -24,7 +24,7 @@ class Counter extends Component {
         <button
           onClick={() => {
             this.props.increment();
-            // Don't forget to invole () the function
+            // Don't forget to invoke () the function
           }}
         >
           +
