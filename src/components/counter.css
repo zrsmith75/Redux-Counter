@@ -1,0 +1,11 @@
+.counter {
+  width: 400px;
+  margin: 20px auto;
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+.counter p {
+  padding: 0 10px;
+  display: inline-block;
+}
