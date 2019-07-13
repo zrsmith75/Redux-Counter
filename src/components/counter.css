@@ -9,3 +9,13 @@
   padding: 0 10px;
   display: inline-block;
 }
+
+.counter button {
+  width: 32px;
+  cursor: pointer;
+  transition: all 0.3s linear;
+}
+
+.counter button:hover {
+  border: solid 2px gray;
+}
